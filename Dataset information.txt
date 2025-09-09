@@ -1,0 +1,21 @@
+Dataset: Churn_Modelling.csv
+Source: Kaggle
+Rows: 10,000
+Columns: 14
+Target variable: Exited (binary - 0=Not churned, 1=Churned)
+
+Columns:
+1. RowNumber
+2. CustomerId
+3. Surname
+4. CreditScore
+5. Geography
+6. Gender
+7. Age
+8. Tenure
+9. Balance
+10. NumOfProducts
+11. HasCrCard
+12. IsActiveMember
+13. EstimatedSalary
+14. Exited (target)
